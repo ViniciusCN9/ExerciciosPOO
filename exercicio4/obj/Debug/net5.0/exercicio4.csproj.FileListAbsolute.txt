@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.exe
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.deps.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.runtimeconfig.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.runtimeconfig.dev.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\bin\Debug\net5.0\exercicio4.pdb
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.AssemblyInfo.cs
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\refint\exercicio4.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.pdb
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\exercicio4.genruntimeconfig.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio4\obj\Debug\net5.0\ref\exercicio4.dll

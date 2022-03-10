@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfo.cs
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.exe
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.deps.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.dev.json
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\bin\Debug\net5.0\exercicio7.pdb
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\refint\exercicio7.dll
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.pdb
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\exercicio7.genruntimeconfig.cache
+D:\Desenvolvimento\Starter\POO\Exercicios\exercicio7\obj\Debug\net5.0\ref\exercicio7.dll
