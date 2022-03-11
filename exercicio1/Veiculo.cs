@@ -6,14 +6,23 @@ namespace exercicio.exercicio1
     class Veiculo
     {
         private string Marca { get; set; }
+
         private string Modelo { get; set; }
+
         private string Placa { get; set; }
+
         private string Cor { get; set; }
+
         private float Km { get; set; }
+
         private bool IsLigado { get; set; }
+
         private int LitrosCombustivel { get; set; }
+
         private int Velocidade { get; set; }
+
         private double Preco { get; set; }
+
         public Veiculo(string marca, string modelo, string placa, string cor, float km, bool isLigado, int litrosCombustivel, int velocidade, double preco)
         {
             this.Marca = marca;
@@ -26,11 +35,13 @@ namespace exercicio.exercicio1
             this.Velocidade = velocidade;
             this.Preco = preco;
         }
+
         public void Acelerar()
         {
-            this.Velocidade = this.Velocidade + 20;
-            Console.WriteLine("O veículo " + this.Marca + " " + this.Modelo + " está acelerando.");
+            this.Velocidade += 20;
+            Console.WriteLine($"O veículo {this.Marca} {this.Modelo} está acelerando.");
         }
+
         public void Abastecer(int combustivel)
         {
             if (this.LitrosCombustivel < 60)
@@ -49,6 +60,7 @@ namespace exercicio.exercicio1
             }
             Console.WriteLine("O tanque do veículo " + this.Marca + " " + this.Modelo + " está cheio!");
         }
+
         public void Frear()
         {
             if (this.Velocidade == 0)
@@ -67,11 +79,13 @@ namespace exercicio.exercicio1
             this.Velocidade = this.Velocidade - 20;
             Console.WriteLine("O veículo " + this.Marca + " " + this.Modelo + " está freando.");
         }
+
         public void Pintar(string novaCor)
         {
             this.Cor = novaCor;
             Console.WriteLine("O veículo " + this.Marca + " " + this.Modelo + " foi pintado de " + this.Cor + ".");
         }
+
         public void Ligar()
         {
             if (this.IsLigado)
@@ -84,6 +98,7 @@ namespace exercicio.exercicio1
             Console.WriteLine("O veículo " + this.Marca + " " + this.Modelo + " foi ligado.");
 
         }
+
         public void Desligar()
         {
             if (this.IsLigado)
@@ -97,18 +112,17 @@ namespace exercicio.exercicio1
 
         public override string ToString()
         {
-            return "\n-------------------------------------------" +
-                    "\nMarca = " + this.Marca +
-                    "\nModelo = " + this.Modelo +
-                    "\nPlaca = " + this.Placa +
-                    "\nCor = " + this.Cor +
-                    "\nQuilomeragem = " + this.Km.ToString("0.0") +
-                    "\nLigado|Desligado = " + this.IsLigado +
-                    "\nCombustível atual = " + this.LitrosCombustivel + " litros" +
-                    "\nVelocidade atual = " + this.Velocidade + " km/h" +
-                    "\nPreço = " + this.Preco.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")) +
-                    "\n-------------------------------------------";
+            return $@"-------------------------------------------
+                    Marca = {this.Marca}
+                    Modelo = {this.Modelo} 
+                    Placa =  {this.Placa} 
+                    Cor =  {this.Cor} 
+                    Quilomeragem =  {this.Km.ToString("0.0")} 
+                    Ligado|Desligado = {this.IsLigado} 
+                    Combustível atual =  {this.LitrosCombustivel} litros
+                    Velocidade atual =  {this.Velocidade}  km/h 
+                    Preço = {this.Preco.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR"))} 
+                    -------------------------------------------";
         }
-
     }
 }

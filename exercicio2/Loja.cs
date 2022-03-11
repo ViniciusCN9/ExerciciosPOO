@@ -12,6 +12,7 @@ namespace exercicio.exercicio2
         private List<VideoGame> VideoGames { get; set; }
 
         public Loja() { }
+        
         public Loja(string nome, string cnpj, List<Livro> livros, List<VideoGame> videoGames)
         {
             this.Nome = nome;

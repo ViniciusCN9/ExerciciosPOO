@@ -29,8 +29,6 @@ namespace exercicio.exercicio4
             //Consulta
             Console.WriteLine("\nExercício 6");
             Consulta.ConsultarIdadePorNome("Jessica", lista);
-
-
         }
     }
 }
