@@ -9,12 +9,8 @@ namespace exercicio.exercicio2
         private string Modelo { get; set; }
         private bool IsUsado { get; set; }
 
-        public VideoGame() { }
-        public VideoGame(string nome, double preco, int qtd, string marca, string modelo, bool isUsado)
+        public VideoGame(string nome, double preco, int qtd, string marca, string modelo, bool isUsado) : base(nome, preco, qtd)
         {
-            this.Nome = nome;
-            this.Preco = preco;
-            this.Qtd = qtd;
             this.Marca = marca;
             this.Modelo = modelo;
             this.IsUsado = isUsado;

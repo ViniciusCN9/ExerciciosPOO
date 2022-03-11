@@ -8,7 +8,6 @@ namespace exercicio.exercicio2
         public double Preco { get; set; }
         public int Qtd { get; set; }
 
-        public Produto() { }
         public Produto(string nome, double preco, int qtd)
         {
             this.Nome = nome;

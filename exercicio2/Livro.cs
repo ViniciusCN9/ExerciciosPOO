@@ -9,16 +9,13 @@ namespace exercicio.exercicio2
         private string Tema { get; set; }
         private int QtdPag { get; set; }
 
-        public Livro() { }
-        public Livro(string nome, double preco, int qtd, string autor, string tema, int qtdPag)
+        public Livro(string nome, double preco, int qtd, string autor, string tema, int qtdPag) : base(nome, preco, qtd)
         {
-            this.Nome = nome;
-            this.Preco = preco;
-            this.Qtd = qtd;
             this.Autor = autor;
             this.Tema = tema;
             this.QtdPag = qtdPag;
         }
+
         public void CalculaImposto()
         {
             var porcentagemImposto = 0.10;
